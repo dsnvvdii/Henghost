@@ -1,9 +1,10 @@
-# Henghost怎么样？Henghost介绍和测评
+# Henghost 恒创科技怎么样？Henghost介绍和测评
 
 ## Henghost 介绍
 Henghost（恒创）是一家提供高性能云服务器解决方案的供应商，特别是在香港地区的服务器资源方面有很强的竞争力。最近，Henghost推出了全新的香港大带宽云服务器，最高可达100Mbps带宽，支持三网直连内地，适合海外影音流媒体、高流量型应用场景。服务器部署在中国香港 Tier3+ 级数据中心，提供稳定、高速的网络传输服务。
 
-![image](https://github.com/user-attachments/assets/a9843931-36a1-48f3-8c9e-4aac7ad845fd)
+![image](https://github.com/user-attachments/assets/15f6f70e-44b3-4d21-a45e-b65efdf2b05a)
+
 
 ## Henghost 官网地址
 [官方链接：Henghost大带宽云服务器](http://my.henghost.com/aff.php?aff=9635)
